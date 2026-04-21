@@ -53,7 +53,7 @@ The Course of the program are as follows:
 
 You have probably developed many transferable skills through life experiences; some of those skills will help you thrive as a cybersecurity professional. These include:
 
-- **Communication:** As a cybersecurity analyst, you will need to communicate and collaborate with others. Understanding others’ questions or concerns and communicating information clearly to individuals with technical and non-technical knowledge will help you mitigate security issues quickly. 
+- **Communication:** As a cybersecurity analyst, you will need to communicate and collaborate with others. Understanding others’ questions or concerns and communicating information clearly to individuals with technical and non-technical knowledge will help you mitigate security issues quickly.
 
 - **Problem-solving:** One of your main tasks as a cybersecurity analyst will be to proactively identify and solve problems. You can do this by recognizing attack patterns, then determining the most efficient solution to minimize risk. Don't be afraid to take risks, and try new things. Also, understand that it's rare to find a perfect solution to a problem. You’ll likely need to compromise.
 
@@ -76,3 +76,39 @@ There are many technical skills that will help you be successful in the cybersec
 - **Threat landscape knowledge:** Being aware of current trends related to threat actors, malware, or threat methodologies is vital. This knowledge allows security teams to build stronger defenses against threat actor tactics and techniques. By staying up to date on attack trends and patterns, security professionals are better able to recognize when new types of threats emerge such as a new ransomware variant.
 
 - **Incident response:** Cybersecurity analysts need to be able to follow established policies and procedures to respond to incidents appropriately. For example, a security analyst might receive an alert about a possible malware attack, then follow the organization’s outlined procedures to start the incident response process. This could involve conducting an investigation to identify the root issue and establishing ways to remediate it.
+
+### Explore: Keep organization secure
+
+- **Analytical thinking:** Security analysts often use **analytical thinking**, which means to think carefully and thoroughly. Analysts use this skill when **monitoring and securing computer and network systems**, responding to potential threats, defining system privileges, and determining ways to mitigate risk.
+
+- **Collaboration:** **Collaboration** means working with stakeholders and other team members. Security analysts often use this skill when **responding to an active threat**. They'll work with others when blocking unauthorized access and ensuring any compromised systems are restored.
+
+- **Malware prevention:** When a specific threat or vulnerability is identified, an analyst might **install prevention software**, which is software that works to proactively prevent a threat from occurring. Because malware is designed to harm devices or networks, **malware prevention** is essential.
+
+- **Communication:** As an analyst prevents and encounters threats, risks, or vulnerabilities, they document and **report findings**. A report might detail attempts to secure systems, test weak points, or offer solutions for system improvement. When reporting findings, strong communication skills are important.
+
+- **Understanding programming languages:** Analysts may sometimes work with software development teams to analyze and support security, install software, and set up appropriate processes. When involved with **software development** projects, it can be helpful for an analyst to **understand programming languages**.
+
+### Terms and definitions from Course 1, Module 1
+
+- **Cybersecurity (or security):** The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+
+- **Cloud security:** The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users.
+
+- **Internal threat:** A current or former employee, external vendor, or trusted partner who poses a security risk
+
+- **Network security:** The practice of keeping an organization's network infrastructure secure from unauthorized access
+
+- **Personally identifiable information (PII):** Any information used to infer an individual’s identity
+
+- **Security posture:** An organization’s ability to manage its defense of critical assets and data and react to change.
+
+- **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines
+
+- **Technical skills:** Skills that require knowledge of specific tools, procedures, and policies
+
+- **Threat:** Any circumstance or event that can negatively impact assets
+
+- **Threat actor:** Any person or group who presents a security risk
+
+- **Transferable skills:** Skills from other areas that can apply to different careers.
