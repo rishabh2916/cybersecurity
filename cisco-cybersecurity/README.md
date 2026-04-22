@@ -82,7 +82,7 @@ The McCumber Cube is a model framework created by John McCumber in 1991 to help 
 
 - **Attack Vector:** Remote Code Execution (RCE) via web application.
 
-- **Major Failure:** Poor internal communication. The "Patch" was available 2 months before the 
+- **Major Failure:** Poor internal communication. The "Patch" was available 2 months before the
 hackers arrived, but the server was never updated.
 
 - **Key Lesson:** "Security is only as strong as your weakest link." As a developer, I must ensure all dependencies and frameworks are kept up-to-date.
