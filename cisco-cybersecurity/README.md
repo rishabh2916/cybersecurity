@@ -94,3 +94,41 @@ hackers arrived, but the server was never updated.
 - Theft
 - Loass of revenue
 - Damage intellectual property
+
+### Incident Analysis & Prevention Strategies
+
+After analyzing real-world security breach scenarios, I've documented the following key measures required to transition from a "reactive" to a "proactive" security posture.
+
+1. **Continuous Monitoring & Log Analysis**
+
+- **Concept:** Implementing a 24/7 monitoring system to evaluate logs, alerts, and unauthorized network activity.
+
+- **Goal:** Identifying the "footprint" of an attacker in real-time to minimize dwell time.
+
+1. **The "Developer-Security" Feedback Loop**
+
+- **Concept:** Generating weekly security audit reports to be shared directly with the development team.
+
+- **Developer Edge:** As a former frontend developer, I prioritize translating technical security vulnerabilities into actionable bug reports for the engineering team.
+
+1. **Strengthening the "Human Firewall"**
+
+- **Concept:** Delivering ongoing cybersecurity awareness training to all employees.
+
+- **Focus:** Training staff to identify social engineering tactics and phishing attempts before they bypass technical controls.
+
+1. **Proactive Vulnerability Management**
+
+- **Concept:** Continuous scanning of the organizational infrastructure to identify and patch "holes" before they can be exploited by threat actors.
+
+1. **Advanced Malware Prevention**
+
+- **Concept:** Deploying endpoint protection and response (EDR) tools to block malicious code execution and prevent lateral movement within the network.
+
+### Find out More
+
+Search for a new additional examples of recent security breaches. In each case, can we identify
+
+- What was taken?
+- What exploits the attacks used?
+- What actions could be taken to prevent the breach from occuring again in the future
