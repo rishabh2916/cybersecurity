@@ -132,3 +132,49 @@ Search for a new additional examples of recent security breaches. In each case, 
 - What was taken?
 - What exploits the attacks used?
 - What actions could be taken to prevent the breach from occuring again in the future
+
+## The Threat Landscape: Types of Attackers
+
+Attackers are categorized based on their technical skills, their legality, and their motives.
+
+### 1. Amateurs (The Beginners)
+
+- **Script Kiddies:** A term that emerged in the 1990s to describe low-skilled attackers.
+
+- **Characteristics:** They lack the ability to write their own exploits. Instead, they use pre-made tools and scripts found online.
+
+- **Motive:** Often curiosity, learning, or minor vandalism. While they are amateurs, they can still cause significant damage to unpatched systems.
+
+### 2. The Hacker Spectrum
+
+Hackers are classified by "Hats" to represent their ethics and legal standing.
+
+| Category | Description | Legal Status |
+| :--- | :--- | :--- |
+| **White Hat** | **Ethical Hackers.** They use their skills for good, finding vulnerabilities so organizations can fix them before an attack occurs. | **Legal** |
+| **Black Hat** | **Unethical Hackers.** They exploit vulnerabilities for personal gain, financial theft, or to damage a company's reputation. | **Illegal** |
+| **Grey Hat** | **The Middle Ground.** They may find a bug without permission and then demand a fee to fix it, or publish it publicly if they aren't satisfied with the response. | **Semi-Legal** |
+
+### 3. Organized Attackers (The Professionals)
+
+These groups are highly coordinated, well-funded, and technically advanced.
+
+- **Cyber Criminals:** Motivated strictly by financial gain (e.g., Ransomware).
+- **Hacktivists:** Attackers motivated by political or social causes.
+- **State-Sponsored:** Hackers hired by governments for espionage or to attack another nation's infrastructure.
+- **Terrorists:** Focus on creating chaos and fear by attacking critical systems like power grids or water supplies.
+
+### Internal and External Threats
+
+1. **Internal:** Employees, Contract staff or trusted partners can accidentaly or intentionally.
+
+- mishandled confedential data
+- facilitate outside attacks by connecting infected USB media into organization computer system
+- Invite malware onto the organization's network by cliking on malicious emails or websites
+- threaten the operations of internal servers or network infrastructure
+
+1. **External:** Amateurs or skilled attackers outside of the organization
+
+- exploits vilnerabilites in the network
+- gain unauthorized access to computing
+- use social engineering to gain unauthorized access to organizational data
