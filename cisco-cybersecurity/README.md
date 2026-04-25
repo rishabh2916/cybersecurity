@@ -178,3 +178,125 @@ These groups are highly coordinated, well-funded, and technically advanced.
 - exploits vilnerabilites in the network
 - gain unauthorized access to computing
 - use social engineering to gain unauthorized access to organizational data
+
+### Cyberwarefare
+
+Cyberwarfare, as its name suggests, is the use of technology to penetrate and attack another nation’s computer systems and networks in an effort to cause damage or disrupt services, such as shutting down a power grid.
+
+## Module 2: Attacks, Concepts and Techniques
+
+### Analyzing a Cyber Attack
+
+- **Malware:** The Cyber Criminals use different kind of malicious software, malware, to carry out their activity.
+
+- **Types of Malware:**
+
+1. **Spyware:** Malware designed to secretly monitor user activity and collect sensitive data.  
+
+**Functions:**
+
+- Records keystrokes (keylogging)
+- Tracks browsing activity
+- Steals credentials and personal data  
+
+**Impact:** Privacy breach and data theft without user awareness
+
+1. **Adware:** Malware that displays unwanted advertisements on a system.  
+
+**How it spreads:**
+
+- Bundled with free or third-party software  
+
+**Functions:**
+
+- Shows pop-ups, banners, or redirects  
+
+**Impact:**
+
+- Slows down system performance
+- May track user behavior  
+
+1. **Ransomware:** Malware that encrypts user data and demands payment (ransom) to restore access.  
+
+**How it works:**
+
+- Encrypts files
+- Displays ransom message  
+
+**Goal:** Financial gain  
+
+**Note:** Paying ransom does not guarantee data recovery  
+
+1. **Backdoor:** A hidden method used by attackers to bypass authentication and gain access.  
+
+**Functions:**
+
+- Provides remote access to system
+- Allows execution of commands  
+
+**Impact:** Highly dangerous and difficult to detect  
+
+1. **Trojan Horse:** Malware disguised as legitimate software.  
+
+**How it works:**
+
+- Tricks users into installing it  
+
+**Functions:**
+
+- Creates backdoors
+- Steals data
+- Installs additional malware  
+
+1. **Virus:** Malicious code that attaches itself to legitimate files and spreads when executed.  
+
+**Key Feature:**
+
+- Requires user action (e.g., opening a file)  
+
+**Impact:**
+
+- Corrupts or deletes files
+- Affects system performance  
+
+1. **Worm:** Self-replicating malware that spreads automatically across networks.  
+
+**Key Feature:**
+
+- Does not require user interaction  
+
+**Impact:**
+
+- Consumes bandwidth
+- Spreads rapidly across systems  
+
+1. **Rootkit:** Malware designed to hide its presence and maintain privileged access.  
+
+**Functions:**
+
+- Hides files and processes
+- Avoids detection by security tools  
+
+**Impact:** Very difficult to detect and remove  
+
+1. **Scareware:** Malware that tricks users into believing their system is infected.  
+
+**How it works:**
+
+- Displays fake alerts or warnings  
+
+**Goal:**
+
+- Tricks users into installing fake software or paying money  
+
+### Quick Revision
+
+- Spyware → Steals data silently  
+- Adware → Shows unwanted ads  
+- Ransomware → Locks data for money  
+- Trojan → Disguised as legit software  
+- Virus → Needs user action  
+- Worm → Spreads automatically  
+- Rootkit → Hides deeply in system  
+- Backdoor → Secret system access  
+- Scareware → Creates fake fear  
