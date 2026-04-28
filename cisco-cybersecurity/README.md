@@ -300,3 +300,139 @@ Cyberwarfare, as its name suggests, is the use of technology to penetrate and at
 - Rootkit → Hides deeply in system  
 - Backdoor → Secret system access  
 - Scareware → Creates fake fear  
+
+## Methods of Infiltration
+
+1. **Social Engineering:** Social engineering is a human manipulation technique used to trick individuals into revealing confidential information or performing actions that compromise security.
+
+**Key Points:**
+
+- Exploits human psychology rather than technical vulnerabilities  
+- Relies on trust, fear, urgency, or curiosity  
+- Targets human weaknesses like helpfulness or lack of awareness  
+
+1. **Pretexting:** A social engineering technique where an attacker creates a fake scenario (pretext) to gain trust and extract sensitive information.
+
+**Example:**
+
+- Pretending to be bank staff to ask for OTP or account details  
+
+1. **Phishing:** A technique where attackers send fraudulent emails, messages, or websites that appear legitimate to steal sensitive data.
+
+**Example:**
+
+- Fake login page asking for username and password  
+
+1. **Tailgating (Piggybacking):** A physical security attack where an unauthorized person gains access to a restricted area by following an authorized individual.
+
+**Example:**
+
+- Entering an office by asking someone to hold the door.
+
+### Revision
+
+- Social Engineering → Manipulating people  
+- Pretexting → Fake story  
+- Phishing → Fake emails/websites  
+- Tailgating → Physical access without permission
+
+### Denial-of-Service
+
+- **DoS:** the Denial of services is the type of network attack that is relatively simple to carry out.It create a intruption in the Network services of user, devices and application.
+
+**Type of DoS Attack:**
+
+1. **overwhelimg traffic:** attacker send the enormous data packet on the user application. this cause a slowdown in transmission or response, or the device or service to crash it.
+
+2. **Malicious packet formate:** The packet is the collection of data the flowa between send and reciever computer or application over a network. when an malicious packet is sent, the reciever can't be unable to handle it.
+
+### Distributed DoS
+
+**Distributed DoS (DDoS):** attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
+
+- An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
+
+- The zombie computers will constantly scan and infect more hosts, creating more and more zombies.
+
+- When ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
+
+1. **Botnet:** A botnet is a network of infected devices (bots/zombies) controlled remotely by an attacker (botmaster).
+
+**How it works:**
+
+- Devices get infected via malware
+- They connect to a Command & Control (C2) server
+- Attacker sends instructions to all infected devices
+
+**Uses:**
+
+- DDoS attacks
+- Spamming
+- Data theft
+
+**Key Point:**  
+Bots operate without the user’s knowledge.
+
+1. **On-Path Attacks (Man-in-the-Middle):** An attack where the attacker secretly intercepts and possibly alters communication between two parties.
+
+**How it works:**
+
+- Attacker positions themselves between sender and receiver
+- Captures or modifies data in transit
+
+**Example:**
+
+- Intercepting login credentials over unsecured Wi-Fi
+
+**Impact:**
+
+- Data theft
+- Session hijacking
+- Communication manipulation
+
+1. **Wi-Fi Password Cracking:** The process of attempting to gain unauthorized access to a Wi-Fi network by discovering its password.
+
+**Common Methods (high-level):**
+
+- Dictionary attack (common passwords)
+- Brute-force attack (trying combinations)
+- Exploiting weak encryption (e.g., outdated protocols)
+
+**Risk Factors:**
+
+- Weak passwords
+- Outdated security (WEP)
+
+**Prevention:**
+
+- Use strong passwords
+- Enable WPA2/WPA3 encryption
+- Disable WPS
+
+1. **Advanced Persistent Threat (APT):** A sophisticated, long-term cyber attack where attackers gain unauthorized access and remain undetected.
+
+**Characteristics:**
+
+- Highly targeted (organizations, governments)
+- Long duration (months/years)
+- Uses multiple attack techniques
+
+**Attack Stages:**
+
+1. Initial access (phishing/malware)
+2. Establish foothold
+3. Privilege escalation
+4. Lateral movement
+5. Data exfiltration
+
+**Goal:**  
+Steal sensitive data or conduct espionage
+
+---
+
+### ⚡ Quick Revision
+
+- Botnet → Network of infected devices  
+- On-Path Attack → Intercepting communication  
+- Wi-Fi Cracking → Breaking network password  
+- APT → Long-term targeted attack  
