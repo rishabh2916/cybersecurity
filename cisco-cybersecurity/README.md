@@ -436,3 +436,49 @@ Steal sensitive data or conduct espionage
 - On-Path Attack → Intercepting communication  
 - Wi-Fi Cracking → Breaking network password  
 - APT → Long-term targeted attack  
+
+## Security VIlnerabillity and Exploits
+
+**Security Vulnerability** is a kind of **software or hardware defect**. the program is written to be take advantage of **vulnerability** is known as **Exploits**
+
+### Hardware Vulnerability
+
+- Hardware vulnerabilities are most often the result of hardware design flaws.
+- **Meltdown and Spectre:** Google security researchers discovered Meltdown and Spectre, two hardware vulnerabilities that affect almost all central processing units (CPUs) released since 1995 within desktops, laptops, servers, smartphones, smart devices and cloud services.
+
+Attackers exploiting these vulnerabilities can read all memory from a given system (Meltdown), as well as data handled by other applications (Spectre). The Meltdown and Spectre vulnerability exploitations are referred to as side-channel attacks (information is gained from the implementation of a computer system). They have the ability to compromise large amounts of memory data because the attacks can be run multiple times on a system with very little possibility of a crash or other error.
+
+### Software Vulnerability
+
+- Software vulnerability are usally introduced by errors int he operating system.
+
+### Categorizing Software Vulnerability
+
+- **Buffer overflow:** The buffer are memory area allocated to an application. when the data is written by  beyond the limits to a buffer. this can lead system crash or data compromise or provide escalation privileges.
+
+- **Non-validating input:** Programs often require data input, but this incoming data could have malicious content, designed to force the program to behave in an unintended way.
+
+- **Race conditions:** THis Vulnerability descirbes a situation where the output of an event depend on ordered or timed outputs.
+
+- **Weaknesses in security practices:** ystems and sensitive data can be protected through techniques such as authentication, authorization and encryption. Developers should stick to using security techniques and libraries that have already been created, tested and verified and should not attempt to create their own security algorithms. These will only likely introduce new vulnerabilities.
+
+- **Access control problems:** Access control is the process of controlling who does what and ranges from managing physical access to equipment to dictating who has access to a resource, such as a file, and what they can do with it, such as read or change the file. Many security vulnerabilities are created by the improper use of access controls.
+
+## Proctection your Devices and Network
+
+You’ve just been issued with a new laptop at @Apollo and are getting ready to set it up. What steps would you take to secure it before use?
+
+To make your device safe and secure, you should:
+
+- turn the firewall on
+- install antivirus and antispyware
+- manage your operating system and browser
+- set up password protection.
+
+## Password Best Practices
+
+You probably have a password for just about every website you visit and it can be hard to remember them all. Web browsers and other programs may offer to remember passwords for you, which can be a significant timesaver. However, certain password shortcuts can leave you less secure. The following best practices may help protect your personal information:
+
+- Use combinations of letters, numbers and symbols. The longer and stronger the password, the safer your information.
+- Don't use the same password for multiple accounts, especially for the most sensitive ones, such as bank accounts, credit cards, legal or tax records, social media accounts, and files containing medical information.
+- Don't use passwords that can be easily guessed, such as common words or birthdays of family members.
