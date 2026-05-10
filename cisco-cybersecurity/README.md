@@ -34,7 +34,7 @@ Traditional data is typically generated and maintained by all organizations, big
 - **Transactional data** such as details relating to buying and selling, production activities and basic organizational operations such as any information used to make employment decisions.
 
 - **Intellectual property** such as patents, trademarks and new product plans, which allows an organization to gain economic advantage over its competitors. This information is often considered a trade secret and losing it could prove disastrous for the future of a company.
-Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
+  Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
 
 ### The Cube
 
@@ -83,7 +83,7 @@ The McCumber Cube is a model framework created by John McCumber in 1991 to help 
 - **Attack Vector:** Remote Code Execution (RCE) via web application.
 
 - **Major Failure:** Poor internal communication. The "Patch" was available 2 months before the
-hackers arrived, but the server was never updated.
+  hackers arrived, but the server was never updated.
 
 - **Key Lesson:** "Security is only as strong as your weakest link." As a developer, I must ensure all dependencies and frameworks are kept up-to-date.
 
@@ -149,11 +149,11 @@ Attackers are categorized based on their technical skills, their legality, and t
 
 Hackers are classified by "Hats" to represent their ethics and legal standing.
 
-| Category | Description | Legal Status |
-| :--- | :--- | :--- |
-| **White Hat** | **Ethical Hackers.** They use their skills for good, finding vulnerabilities so organizations can fix them before an attack occurs. | **Legal** |
-| **Black Hat** | **Unethical Hackers.** They exploit vulnerabilities for personal gain, financial theft, or to damage a company's reputation. | **Illegal** |
-| **Grey Hat** | **The Middle Ground.** They may find a bug without permission and then demand a fee to fix it, or publish it publicly if they aren't satisfied with the response. | **Semi-Legal** |
+| Category      | Description                                                                                                                                                       | Legal Status   |
+| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
+| **White Hat** | **Ethical Hackers.** They use their skills for good, finding vulnerabilities so organizations can fix them before an attack occurs.                               | **Legal**      |
+| **Black Hat** | **Unethical Hackers.** They exploit vulnerabilities for personal gain, financial theft, or to damage a company's reputation.                                      | **Illegal**    |
+| **Grey Hat**  | **The Middle Ground.** They may find a bug without permission and then demand a fee to fix it, or publish it publicly if they aren't satisfied with the response. | **Semi-Legal** |
 
 ### 3. Organized Attackers (The Professionals)
 
@@ -191,115 +191,115 @@ Cyberwarfare, as its name suggests, is the use of technology to penetrate and at
 
 - **Types of Malware:**
 
-1. **Spyware:** Malware designed to secretly monitor user activity and collect sensitive data.  
+1. **Spyware:** Malware designed to secretly monitor user activity and collect sensitive data.
 
 **Functions:**
 
 - Records keystrokes (keylogging)
 - Tracks browsing activity
-- Steals credentials and personal data  
+- Steals credentials and personal data
 
 **Impact:** Privacy breach and data theft without user awareness
 
-1. **Adware:** Malware that displays unwanted advertisements on a system.  
+1. **Adware:** Malware that displays unwanted advertisements on a system.
 
 **How it spreads:**
 
-- Bundled with free or third-party software  
+- Bundled with free or third-party software
 
 **Functions:**
 
-- Shows pop-ups, banners, or redirects  
+- Shows pop-ups, banners, or redirects
 
 **Impact:**
 
 - Slows down system performance
-- May track user behavior  
+- May track user behavior
 
-1. **Ransomware:** Malware that encrypts user data and demands payment (ransom) to restore access.  
+1. **Ransomware:** Malware that encrypts user data and demands payment (ransom) to restore access.
 
 **How it works:**
 
 - Encrypts files
-- Displays ransom message  
+- Displays ransom message
 
-**Goal:** Financial gain  
+**Goal:** Financial gain
 
-**Note:** Paying ransom does not guarantee data recovery  
+**Note:** Paying ransom does not guarantee data recovery
 
-1. **Backdoor:** A hidden method used by attackers to bypass authentication and gain access.  
+1. **Backdoor:** A hidden method used by attackers to bypass authentication and gain access.
 
 **Functions:**
 
 - Provides remote access to system
-- Allows execution of commands  
+- Allows execution of commands
 
-**Impact:** Highly dangerous and difficult to detect  
+**Impact:** Highly dangerous and difficult to detect
 
-1. **Trojan Horse:** Malware disguised as legitimate software.  
+1. **Trojan Horse:** Malware disguised as legitimate software.
 
 **How it works:**
 
-- Tricks users into installing it  
+- Tricks users into installing it
 
 **Functions:**
 
 - Creates backdoors
 - Steals data
-- Installs additional malware  
+- Installs additional malware
 
-1. **Virus:** Malicious code that attaches itself to legitimate files and spreads when executed.  
+1. **Virus:** Malicious code that attaches itself to legitimate files and spreads when executed.
 
 **Key Feature:**
 
-- Requires user action (e.g., opening a file)  
+- Requires user action (e.g., opening a file)
 
 **Impact:**
 
 - Corrupts or deletes files
-- Affects system performance  
+- Affects system performance
 
-1. **Worm:** Self-replicating malware that spreads automatically across networks.  
+1. **Worm:** Self-replicating malware that spreads automatically across networks.
 
 **Key Feature:**
 
-- Does not require user interaction  
+- Does not require user interaction
 
 **Impact:**
 
 - Consumes bandwidth
-- Spreads rapidly across systems  
+- Spreads rapidly across systems
 
-1. **Rootkit:** Malware designed to hide its presence and maintain privileged access.  
+1. **Rootkit:** Malware designed to hide its presence and maintain privileged access.
 
 **Functions:**
 
 - Hides files and processes
-- Avoids detection by security tools  
+- Avoids detection by security tools
 
-**Impact:** Very difficult to detect and remove  
+**Impact:** Very difficult to detect and remove
 
-1. **Scareware:** Malware that tricks users into believing their system is infected.  
+1. **Scareware:** Malware that tricks users into believing their system is infected.
 
 **How it works:**
 
-- Displays fake alerts or warnings  
+- Displays fake alerts or warnings
 
 **Goal:**
 
-- Tricks users into installing fake software or paying money  
+- Tricks users into installing fake software or paying money
 
 ### Quick Revision
 
-- Spyware → Steals data silently  
-- Adware → Shows unwanted ads  
-- Ransomware → Locks data for money  
-- Trojan → Disguised as legit software  
-- Virus → Needs user action  
-- Worm → Spreads automatically  
-- Rootkit → Hides deeply in system  
-- Backdoor → Secret system access  
-- Scareware → Creates fake fear  
+- Spyware → Steals data silently
+- Adware → Shows unwanted ads
+- Ransomware → Locks data for money
+- Trojan → Disguised as legit software
+- Virus → Needs user action
+- Worm → Spreads automatically
+- Rootkit → Hides deeply in system
+- Backdoor → Secret system access
+- Scareware → Creates fake fear
 
 ## Methods of Infiltration
 
@@ -307,21 +307,21 @@ Cyberwarfare, as its name suggests, is the use of technology to penetrate and at
 
 **Key Points:**
 
-- Exploits human psychology rather than technical vulnerabilities  
-- Relies on trust, fear, urgency, or curiosity  
-- Targets human weaknesses like helpfulness or lack of awareness  
+- Exploits human psychology rather than technical vulnerabilities
+- Relies on trust, fear, urgency, or curiosity
+- Targets human weaknesses like helpfulness or lack of awareness
 
 1. **Pretexting:** A social engineering technique where an attacker creates a fake scenario (pretext) to gain trust and extract sensitive information.
 
 **Example:**
 
-- Pretending to be bank staff to ask for OTP or account details  
+- Pretending to be bank staff to ask for OTP or account details
 
 1. **Phishing:** A technique where attackers send fraudulent emails, messages, or websites that appear legitimate to steal sensitive data.
 
 **Example:**
 
-- Fake login page asking for username and password  
+- Fake login page asking for username and password
 
 1. **Tailgating (Piggybacking):** A physical security attack where an unauthorized person gains access to a restricted area by following an authorized individual.
 
@@ -331,9 +331,9 @@ Cyberwarfare, as its name suggests, is the use of technology to penetrate and at
 
 ### Revision
 
-- Social Engineering → Manipulating people  
-- Pretexting → Fake story  
-- Phishing → Fake emails/websites  
+- Social Engineering → Manipulating people
+- Pretexting → Fake story
+- Phishing → Fake emails/websites
 - Tailgating → Physical access without permission
 
 ### Denial-of-Service
@@ -432,10 +432,10 @@ Steal sensitive data or conduct espionage
 
 ### ⚡ Quick Revision
 
-- Botnet → Network of infected devices  
-- On-Path Attack → Intercepting communication  
-- Wi-Fi Cracking → Breaking network password  
-- APT → Long-term targeted attack  
+- Botnet → Network of infected devices
+- On-Path Attack → Intercepting communication
+- Wi-Fi Cracking → Breaking network password
+- APT → Long-term targeted attack
 
 ## Security VIlnerabillity and Exploits
 
@@ -454,7 +454,7 @@ Attackers exploiting these vulnerabilities can read all memory from a given syst
 
 ### Categorizing Software Vulnerability
 
-- **Buffer overflow:** The buffer are memory area allocated to an application. when the data is written by  beyond the limits to a buffer. this can lead system crash or data compromise or provide escalation privileges.
+- **Buffer overflow:** The buffer are memory area allocated to an application. when the data is written by beyond the limits to a buffer. this can lead system crash or data compromise or provide escalation privileges.
 
 - **Non-validating input:** Programs often require data input, but this incoming data could have malicious content, designed to force the program to behave in an unintended way.
 
@@ -482,3 +482,25 @@ You probably have a password for just about every website you visit and it can b
 - Use combinations of letters, numbers and symbols. The longer and stronger the password, the safer your information.
 - Don't use the same password for multiple accounts, especially for the most sensitive ones, such as bank accounts, credit cards, legal or tax records, social media accounts, and files containing medical information.
 - Don't use passwords that can be easily guessed, such as common words or birthdays of family members.
+
+## What is Encryption
+
+ncryption is the process of converting information into a form in which unauthorized parties cannot read it. Only a trusted, authorized person with the secret key or password can decrypt the data and access it in its original form.
+
+Note that the encryption itself does not prevent someone from intercepting the data. It can only prevent an unauthorized person from viewing or accessing the content. In fact, some criminals may decide to simply encrypt your data and make it unusable until you pay a ransom.
+
+## Terms of services
+
+The Terms of Service, also known as Terms of Use or Terms and Conditions, is a legally binding contract that governs the rules of the relationship between you, the service provider and others who use the service.
+
+### undestant the terms
+
+The Terms of Service will include a number of sections, from user rights and responsibilities to disclaimers and account modification terms.
+
+### Before you sign up
+
+- Have you read the terms and services?
+- What are your right regardings your data?
+- can you request a copy of your data?
+- What can the provider do with the data you upload?
+- What happens to your data when you close your account?
