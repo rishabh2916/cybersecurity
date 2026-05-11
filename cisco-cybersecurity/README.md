@@ -504,3 +504,66 @@ The Terms of Service will include a number of sections, from user rights and res
 - can you request a copy of your data?
 - What can the provider do with the data you upload?
 - What happens to your data when you close your account?
+
+## Cyber security Devices and Technology
+
+### Security Appliances
+
+security appliance can be standalone like router or Software tools that are run on network devices. Their are sim general categories
+
+- **Router:** The router are primarily used to interconneted network segment. Its also having basic traffic filtration. define the which computer network from the given network segment communicate with which network segment.
+
+- **Firewalls:** The firewalls Scanning the incoming and outgoing traffic and detect the malicious behavior that has to be blocked.
+
+- **Intrusion Detection System:** Set of traffic signatures that match and block malicious traffic and attacks.
+
+- **Virtual private network:** VPN create a end-to-end encryted tunnel between the network.
+
+- **Antimalware and Antivirius:** These system use script to detect the suspicious activity and block the malicious code from beign executer.
+
+- **Other security devices:** include web and email security appliances, decryption devices, client access contro, servers and security management systems.
+
+### Firewalls
+
+- **Network layer Firewall:** This filters communications based on source and destination IP addresses.
+
+- **Transport layer Firewall:** Filters communications based on source and destination data ports, as well as connection states.
+
+- **Application layer Firewall:** Filters communications based on an application, program or service.
+
+- **Poxy server:** Filters web content requests like URLs, domain names and media types.
+
+- **Reverse Proxy:** Placed in front of web servers, reverse proxy servers protect, hide, offload and distribute access to web servers.
+
+- **Context aware layer firewall:** Filters communications based on the user, device, role, application type and threat profile.
+
+- **Network address information (NAT) firewall:** This firewall hides or masquerades the private addresses of network hosts.
+
+- **Host based firewall:** Filters ports and system service calls on a single computer operating system.
+
+### Port Scanning
+
+Each application running on device is assigned identifier is called port number. This port number is used on both ends of the transmission so that the right data is passed to the correct application.
+
+### Intrusion Detection and Prevention system
+
+Intrusion detection systems (IDSs) and intrusion prevention systems (IPSs) are security measures deployed on a network to detect and prevent malicious activities.
+
+- The job of IDS is to detect log and report.
+- IPS is block and deny traffic based on a positive rule or signature match like cisco sourcefire
+
+### security best practice
+
+- **Perform a risk assessment:** Knowing and understanding the value of what you are protecting will help to justify security expenditures.
+- **Create a security policy:** Create a policy that clearly outlines the organization's job roles, and responsibility and expectation for employees.
+- **Physical security measures:** Restrict access to networking closets and server location, as well as fire suppresion.
+- **Human resources security measures:** Background checks should be completed for all employees.
+- **Performs and test backups:** Back up information regularly and test data recovery from backups.
+- **Maintains security patches and updates:** Regularly update server, client and network device OS and programs.
+- **Employ access controls:** Configure user role and privilege levels as well as strong user authentication.
+- **Regularly test incident response:** Employ an incident response team and test emergency response scenarios.
+- **Implement a network monitoring, analytics and management tool:** Choose a security monitoring solution that integrates with other technologies.
+- **Implement network security devices:** Use next generation routers, firewalls and other security appliances.
+- **Implement a comprehensive endpoints security software:** use enterprise level antimalware and antivirus software.
+- **Educate users:** Provide training to employees in security procedures.
+- **Encrypt data:** Encrypt all sensitive organization data, including email.
