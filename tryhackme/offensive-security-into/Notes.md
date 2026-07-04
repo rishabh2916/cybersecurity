@@ -1,32 +1,29 @@
-# TryHackMe: Offensive Security Intro
+# Offensive Security Intro
 
-## 🔍 Concept: Content Discovery
+This ia the core of "Offensive Security". it invloves breaking into computer systems, exploiting software bugs, and finding loopholes in application to gain unauthorized access.
 
-To find pages that are not linked on the main website, we use a process called **Directory Brute-Forcing**.
+- **Goal:** The goal is to understand hacker tactics and enhance or system defences.
 
-* **Tool Used:** `dirb`
-* **Command Example:** `dirb http://fakebank.thm`
-* **Process:** The tool tests thousands of common folder names from a "wordlist" against the URL.
-* **Success Indicator:** If the server responds with a **200 OK** status code, the hidden page exists and is accessible.
+## Hacking first machine
 
----
+Inthis lesson, we have prepared a fake bank application called FakeBank.
 
-## ⚠️ The Vulnerability: Broken Access Control
+- Command-line application called "Gobuster" to brute-force FakeBank's website to find hidden directories and pages.
 
-In the simulation, navigating directly to `/bank-transfer` granted access to the admin panel without requiring a login.
+- Gobuster will take a list of potential page or directory names and try accessing website each of them; if pages exists, it tell you.
 
-* **The Flaw:** **Security through Obscurity**. The developers believed that if a user couldn't see a link, they wouldn't find the page.
-* **The Reality:** Hiding a link is not security. If the server does not verify **Authorization** (checking if the user has the right permissions), the page remains public to anyone who knows or guesses the URL.
+gobuster -u https://fakebank.thm -w wordlist.txt dir
 
----
+1. -u is used to state the website we're scanning
+1. -w takes a list of word to iterate through to find hidden pages.
 
-## 💡 Key Lessons for my Notes
+## Status Code,Meaning,Aapka Action
 
-* **HTTP Status Codes to Remember:** `200 OK`: Page found and accessible.
-  * `403 Forbidden`: Page exists, but access is correctly blocked (This is what *should* have happened).
-  * `404 Not Found`: Page does not exist.
-* **The "Golden Rule":** Hiding a door is not the same as locking it. Always implement server-side permission checks.
+1. **200:** **Success!** , Browser mein check karo.
+1. **403:** **Access Denied** ,Permission bypass try karo.
+1. **301:** **Redirect** ,Check karo kahan bhej raha hai.
+1. **404:** **Not Found** ,Ignore karo.
+1. **500:** **Server Error** ,Server code mein kuch gadbad hai (kabhi-kabhi ye bhi vulnerability hoti hai).
 
----
-**Date Completed:** 2026-04-21
-**Category:** Offensive Security / Web Pentesting
+![bank-hack](./images/activity.png)
+![bank-hack](./images/hacked.png)

@@ -128,7 +128,7 @@ Some of the most common types of phishing attacks today include:
 
 1. **Business Email Compromise (BEC):** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
 
-1. **Spear phishing:** A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+1. **Spear phishing:** A malicious email attack that targets a speckific user or group of users. The email seems to originate from a trusted source.
 
 1. **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
 
