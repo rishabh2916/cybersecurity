@@ -33,3 +33,9 @@ An IP address looks like the following 104.26.10.229, 4 sets of digits ranging f
 - **CNAME Record:** These records resolve to another domain name, for example, TryHackMe's online shop has the subdomain name store.tryhackme.com which returns a **CNAME record** shops.shopify.com Another DNS request would then be made to shops.shopify.com to work out the IP address.
 - **MX Record:** These records resolve to the address of the servers that handle the email for the domain you are querying, for example an MX record response for tryhackme.com would look something like alt1.aspmx.l.google.com
 - **TXT Record:** TXT records are free text fields where any text-based data can be stored.
+
+## Making A Request
+
+![DNS request](https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/5f04259cf9bf5b57aed2c476-1724075620083.png)
+
+![Room Completed](./room-completed.png)
