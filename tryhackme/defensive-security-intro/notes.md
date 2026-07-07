@@ -23,9 +23,9 @@ Don't rely on one "big wall." Use multiple layers of security to slow down an at
 
 ## 🚦 Traffic Flow & Firewalls
 
-* **Inbound Traffic:** Outside -> Inside. Defenders use **IPS (Intrusion Prevention Systems)** here to block malicious scans.
-* **Outbound Traffic:** Inside -> Outside. Monitoring this helps detect **Exfiltration** (data theft).
-* **Firewall Logic:** **"Default Deny"** — Block everything by default, only allow what is necessary.
+- **Inbound Traffic:** Outside -> Inside. Defenders use **IPS (Intrusion Prevention Systems)** here to block malicious scans.
+- **Outbound Traffic:** Inside -> Outside. Monitoring this helps detect **Exfiltration** (data theft).
+- **Firewall Logic:** **"Default Deny"** — Block everything by default, only allow what is necessary.
 
 ---
 
@@ -33,10 +33,10 @@ Don't rely on one "big wall." Use multiple layers of security to slow down an at
 
 **Scenario:** FakeBank Web Server Logs.
 
-* **Observation:** Massive volume of **404 Not Found** errors from a single IP.
-* **Attack Type:** **Directory Brute-Forcing / Fuzzing**.
-* **Discovery:** Attacker found `/bank-transfer` (Status 200).
-* **Response:** Add an **Inbound Rule** to the firewall to block the Attacker's IP address.
+- **Observation:** Massive volume of **404 Not Found** errors from a single IP.
+- **Attack Type:** **Directory Brute-Forcing / Fuzzing**.
+- **Discovery:** Attacker found `/bank-transfer` (Status 200).
+- **Response:** Add an **Inbound Rule** to the firewall to block the Attacker's IP address.
 
 ### Security Operations center (SOC)
 
@@ -46,3 +46,6 @@ The security operations and center is a team of cyber security professionals tha
 1. Network Intrusion
 1. Policy violation
 1. Unauthorized activity
+
+![defensive security room completed img](./assets/defensive-security-room.png)
+![defensive lab](./assets/defensive-lab1.png)
