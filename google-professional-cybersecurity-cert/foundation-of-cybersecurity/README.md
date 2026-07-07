@@ -131,36 +131,31 @@ There are many technical skills that will help you be successful in the cybersec
 
 ### Module 2 (The evolution of cybersecurity)
 
-- **Computer virus:** Malicious code is written to interface with computer operation and cause damage to data and software.
-- **Malware:** software is design to harm devices or networks.
-- **Social Engineering:** A manipulation technique that exploits human error to gain private information, access or valuables.
-- **Phishing:** The use of digital communication to trick people into revealing sensitive information or deploying malicious software.
-
 ### Phishing
 
-- **Phishing:** is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+- **Phishing:** is the use of **digital communications** to trick people into revealing sensitive data or deploying malicious software.
 
 Some of the most common types of phishing attacks today include:
 
-1. **Business Email Compromise (BEC):** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+1. **Business Email Compromise (BEC):** A threat actor sends an email message that seems to be from a known source to make a **seemingly legitimate** request for information, in order to obtain a **financial advantage**.
 
-1. **Spear phishing:** A malicious email attack that targets a speckific user or group of users. The email seems to originate from a trusted source.
+1. **Spear phishing:** A malicious email attack that targets a speckific user or group of users. The email seems to originate from a **trusted source**.
 
-1. **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+1. **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to **sensitive data**.
 
-1. **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+1. **Vishing:** The exploitation of electronic voice communication to obtain **sensitive information** or to impersonate a known source.
 
-1. **Smishing:** The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+1. **Smishing:** The use of text messages to trick users, in order to obtain **sensitive information** or to impersonate a known source.
 
 ### Malware
 
-- **Malware** is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.  
+- **Malware** is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to **obtain money**, or in some cases, an **intelligence advantage** that can be used against a **person**, an **organization**, or a **territory**.  
 
 Some of the most common types of malware attacks today include: =
 
-1. **Viruses:** Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+1. **Viruses:** Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the **malicious attachment** or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to **damage** and/or **destroy** data in the system.
 
-1. **Worms:** Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+1. **Worms:** A worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
 
 1. **Ransomware:** A malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
 
@@ -168,7 +163,7 @@ Some of the most common types of malware attacks today include: =
 
 ### Social Engineering
 
-- **Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables. Human error is usually a result of trusting someone without question. It’s the mission of a threat actor, acting as a social engineer, to create an environment of false trust and lies to exploit as many people as possible.
+- **Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables.
 
 Some of the most common types of social engineering attacks today include:
 
@@ -182,7 +177,7 @@ Some of the most common types of social engineering attacks today include:
 
 Social engineering principles
 
-Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
+Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority.Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
 
 Reasons why social engineering attacks are effective include:
 
