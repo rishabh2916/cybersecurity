@@ -8,7 +8,7 @@ An IP address looks like the following 104.26.10.229, 4 sets of digits ranging f
 
 ### Domain Hierarchy
 
-![Alt text](https://tryhackme-images.s3.amazonaws.com/user-uploads/5c549500924ec576f953d9fc/room-content/a168c8511887fff98a6944619c4b5259.png)
+![Domain Hierarchy](domain-hierarchy.png)
 
 1. **Top Level Domain(TLD)**
 
