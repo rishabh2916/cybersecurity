@@ -194,3 +194,62 @@ Reasons why social engineering attacks are effective include:
 1. **Trust:** Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
 
 1. **Urgency:** A threat actor persuades others to respond quickly and without questioning.
+
+### CISSP Eight domanins
+
+1. Security and Risk Management
+1. Assest Security
+1. Security Architecture and Engineering
+1. Communication and Network Security
+1. Identify and Access Management
+1. Security Assessment and Testing
+1. Security Operations
+1. Software Development
+
+### Attack types
+
+- **Password Attack** is an attempt to access password-secured devices, systems, network, or data.
+
+1. Brute force
+1. Rainbow table
+
+**Password** attack falls under **communication** and **network security domain**
+
+- **Social Engineering attack** is an manipulation technique that exploits human error to gain private information,access, or valuable.
+
+1. Phishing
+1. Smishing
+1. Vishing
+1. Spear phishing
+1. Whaling
+1. Social media phishing
+1. Business Email Compromise (BEC)
+1. Watering hole attack
+1. USB (Universal Serial Bus) baiting
+1. Physical social engineering
+
+**Social engineering attacks** are related to the **security** and **risk management domain**
+
+- **Physical attack** is a security incident that affect not only digital but also physical environment where the incident is delopyed.
+
+1. Malicious USB cable
+1. Malicious flash drive
+1. Card clonning and skimming
+
+**Physical attack** fall under the **asset security domain**
+
+- **Adversarial artificial intelligence** is the technique that manipulate **AI** and **ML** technology to conduct attacks more efficiently.
+
+**Adversarial AI** falls under both the **communication** and **network security** and the **identify** and **access management domains**.
+
+- **Supply-chain attack** **targets systems, application, hardware and software** to locate a vulnerability where malware can be deployed. Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain.
+
+**Supply chain attack** fall under several domain including but not limited to the **security** and **risk management**, **security architecture** and **engineering** and **security operation domains**.
+
+- **Cryptographic attack** affects secure forms of communication between a sender and intended recipient. Some forms of cryptographic attacks are:
+
+1. Birthday
+1. Collision
+1. Downgrade
+
+**Cryptographic attacks** fall under the **communication** and **Network security**.
