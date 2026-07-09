@@ -253,3 +253,42 @@ Reasons why social engineering attacks are effective include:
 1. Downgrade
 
 **Cryptographic attacks** fall under the **communication** and **Network security**.
+
+### Threat actor types
+
+1. **Advanced Persistent threats:** Have significant expertise an organixation's network without authorization. APTs tend to research their targets (like large corporations or government entitites).
+
+Motivation and intentions:-
+
+- Damaging critical infrastructure like power grid.
+- Gaining access to intellectual property, like trake screts or patents.
+
+1. **Insider Threat:** Insider threats abuse their authorized access to obtain data that may harm an organization. intention and motivations include:
+
+- Sabotage, Corruption, Espionage, and Unauthorized access or leaks.
+
+1. **Hactivists:** are threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goal, include:
+
+- Demonstration, Propaganda, social change campaign, and fame
+
+### Hacker Types
+
+**hacker** is any person who uses computers to gain access to computer systems, networks, or data. They can be beginner or advanced technology professionals who use their skills for a variety of reasons. There are three main categories of hackers:
+
+1. **Authorized hackers** are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
+
+1. **Semi-authorized hackers** are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
+
+1. **Unauthorized hackers** are also called unethical hackers. They are malicious threat actors who do not follow or respect the law. Their **goal** is to collect and sell confidential data for **financial gain**.
+
+**Note**: There are multiple hacker types that fall into one or more of these three categories.
+
+New and unskilled threat actors have various goals, including:
+
+- To learn and enhance their hacking skills
+
+- To seek revenge
+
+- To exploit security weaknesses by using existing malware, programming scripts, and other tactics.
+
+There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from unethical hackers.
