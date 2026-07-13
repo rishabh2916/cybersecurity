@@ -29,7 +29,7 @@ A URL is predominantly an instruction on how to access a resource on the interne
 ### Making a Request
 
 It's possible to make a request to a web server with just one line GET / HTTP/1.1
-![Making a request of URL]()
+![Making a request of URL]( )
 
 But for a much richer web experience, you’ll need to send other data as well. This other data is sent in what is called headers, where headers contain extra information to give to the web server you’re communicating with, but we’ll go more into this in the Header task.
 
