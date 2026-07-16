@@ -372,7 +372,7 @@ They are used to assess an organization’s financial compliance and levels of r
 
 - **Programmming** is a process that can be used to create a specific set of instructions for a computer to execute tasks.
 
-- **SQL** is used to create, interact with, and request information from a database. A database is an organized collection of information or data. There can be millions of data points in a database. A data point is a specific piece of information.
+- **SQL** is used to create, interact with, and request information from a database. A **database** is an organized collection of information or data. There can be millions of **data points** in a database. A **data point** is a specific piece of information.
 
 - **Operating system** is the interface between computer hardware and the user. Linux®, macOS®, and Windows are operating systems.
 
@@ -381,3 +381,5 @@ They are used to assess an organization’s financial compliance and levels of r
 - **Encryption** makes data unreadable and difficult to decode for an unauthorized user; its main goal is to ensure confidentiality of private data. **Encryption** is the process of converting data from a readable format to a cryptographically encoded format. **Cryptographic** encoding means converting plaintext into secure **ciphertext**. **Plaintext** is unencrypted information and secure ciphertext is the result of encryption.
 
 - **Penetration testing** also called pen testing, is the act of participating in a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.
+
+- **Antivirus software**: A software program used to prevent, detect, and eliminate malware and viruses
