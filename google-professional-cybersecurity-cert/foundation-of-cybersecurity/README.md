@@ -361,3 +361,9 @@ The American Institute of Certified Public Accountants® (AICPA) auditing standa
 - Others
 
 They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
+
+### Cyber tools and programing languages
+
+- **SIEM tools** is an application that collect and analyzes log data to monitor critical activity in organization.
+- **Log data** is a record of event that occur within and organization's system.
+- **Playbook** is a manual that provide detailed about any operational action, such as how to respond to a security incident. For example: **chain of study playbook** or **protecting and preserving playbook**.
