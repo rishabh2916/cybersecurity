@@ -95,7 +95,7 @@ There are many technical skills that will help you be successful in the cybersec
 
 ### Explore: Keep organization secure
 
-- **Analytical thinking:** Security analysts often use **analytical thinking**, which means to think carefully and thoroughly. Analysts use this skill when **monitoring and securing computer and network systems**,
+- **Analytical thinking:** Security analysts often use **analytical thinking**, which means to think carefully and thoroughly. Analysts use this skill when **monitoring and securing computer and network systems**.
 
 - **Collaboration:**  means working with stakeholders and other team members. Security analysts often use this skill when **responding to an active threat**. They'll work with others when blocking unauthorized access and ensuring any compromised systems are restored.
 
@@ -303,13 +303,13 @@ As you may recall, **security controls** are **safeguards** designed to reduce s
 
 **Security frameworks** are guidelines used for building plans to help mitigate risks and threats to data and privacy. They have four core components:
 
-- Identifying and documenting security goals
+- Identifying and documenting security goals.
 
-- Setting guidelines to achieve security goals
+- Setting guidelines to achieve security goals.
 
-- Implementing strong security processes
+- Implementing strong security processes.
 
-- Monitoring and communicating results
+- Monitoring and communicating results.
 
 **Compliance** is the process of adhering to internal standards and external regulations.
 
