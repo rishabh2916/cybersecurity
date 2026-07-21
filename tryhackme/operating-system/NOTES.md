@@ -30,3 +30,59 @@
 1. **System Protection:** Safeguards critical system files and settings from unauthorized changes
 
 ![information about this computer](./assets/01-lab-preview.png)
+
+## OS interface
+
+**GUI:** The graphical user interface, or GUI, is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based UIs, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs),which require commands to be typed on a computer keyboard.
+
+**CLI:** The command-line interface, or CLI, allows users to interact with a computer by typing text-based commands. Rather than clicking icons or menus, users enter commands using a keyboard to perform tasks. CLIs are commonly used for their speed, flexibility, and control.
+
+### Operating system type
+
+1. Desktop
+1. Server
+1. Mobile
+1. Embedded
+1. Virtual/Cloud
+
+### Desktop
+
+1. **Windows:** The most widely used operating system on personal computers
+Windows 10 (end-of-life), Windows 11
+1. **macOS:** Apple's desktop OS, known for its polished GUI and integration with other Apple devices
+Sonoma (14), Sequoia (15), Tahoe (26)
+1. **Linux** Not a single OS but a family of open-source operating systems called distributions
+Ubuntu, Debian, Fedora.
+
+### Server
+
+1. **Windows:** Used in large networks, data centers, and corporate environments
+Server 2016, 2019, 2022, 2025
+1. **Linux:** The vast majority of web servers, trusted for its reliability and open-source nature
+Ubuntu Server, Debian, CentOS, Red Hat
+1. **Unix:** Large enterprises, finance, telecom, government
+IBM AIX, Oracle Solaris
+
+### Mobile
+
+1. **Android:** The most widely used mobile OS, which runs on phones, tablets, and smart devices
+Android 14 - 16, Manufacturer versions
+1. **iOS:** Apple's mobile OS running on iPhones, iPads, and other devices
+iOS 17, 18, 26
+
+### Embedded and IoT Devices
+
+1. **Embedded Linux:** Specialized OS built into devices with dedicated functions
+OpenWrt, Ubuntu Core, Yocto Project
+1. **Real-Time OS:** Designed for apps where tasks need guaranteed response times (aircraft controls)
+FreeRTOS, VxWorks, QNX
+Virtual and Cloud
+
+1. **Cloud/VM:** Massive data centers that host websites, apps, and streaming services
+Ubuntu LTS, Amazon Linux, Rocky Linux
+1. **Container-optimized:** Lightweight alternatives to VMs that package just the app and its dependencies
+Alpine Linux, Bottlerocket AWS, Flatcar Linux
+
+### Why sp many operating system
+
+Different devices and environments require different capabilities from an OS. A laptop must be user-friendly and support multitasking
