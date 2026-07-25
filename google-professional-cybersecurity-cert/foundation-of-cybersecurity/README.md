@@ -51,7 +51,7 @@ The Course of the program are as follows:
 
 - **Security posture** is an organization’s ability to manage its defense of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
 
-- A **threat actor**, or malicious attacker, is any person or group who presents a security risk. This risk can relate to computers, applications, networks, and data.
+- A **threat actor**, or **malicious attacker**, is any person or group who presents a security risk. This risk can relate to computers, applications, networks, and data.
 
 - An **internal threat** can be a current or former employee, an external vendor, or a trusted partner who poses a security risk.
 
@@ -69,7 +69,7 @@ The Course of the program are as follows:
 
 You have probably developed many transferable skills through life experiences, These include:
 
-- **Communication:** As a cybersecurity analyst, you will need to communicate and collaborate with others. Understanding others’ questions or concerns and communicating information clearly to individuals with technical and non-technical knowledge will help you mitigate security issues quickly.
+- **Communication:** As a cybersecurity analyst, you will need to communicate and collaborate with others. Understanding others questions or concerns and communicating information clearly to individuals with technical and non-technical knowledge will help you mitigate security issues quickly.
 
 - **Problem-solving:** One of your main tasks as a cybersecurity analyst will be to proactively identify and solve problems. You can do this by recognizing attack patterns, then determining the most efficient solution to minimize risk.
 
@@ -81,7 +81,7 @@ You have probably developed many transferable skills through life experiences, T
 
 ### Technical skills
 
-There are many technical skills that will help you be successful in the cybersecurity field.include:
+There are many technical skills that will help you be successful in the cybersecurity field. include:
 
 - **Programming languages:** By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming.
 
@@ -107,25 +107,11 @@ There are many technical skills that will help you be successful in the cybersec
 
 ### Terms and definitions from Course 1, Module 1
 
-- **Cybersecurity (or security):** The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+- **Personally identifiable information (PII):** Any information used to infer an individual’s identity.
 
-- **Cloud security:** The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users.
+- **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines.
 
-- **Internal threat:** A current or former employee, external vendor, or trusted partner who poses a security risk
-
-- **Network security:** The practice of keeping an organization's network infrastructure secure from unauthorized access
-
-- **Personally identifiable information (PII):** Any information used to infer an individual’s identity
-
-- **Security posture:** An organization’s ability to manage its defense of critical assets and data and react to change.
-
-- **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines
-
-- **Technical skills:** Skills that require knowledge of specific tools, procedures, and policies
-
-- **Threat:** Any circumstance or event that can negatively impact assets
-
-- **Threat actor:** Any person or group who presents a security risk
+- **Threat:** Any circumstance or event that can negatively impact assets.
 
 - **Transferable skills:** Skills from other areas that can apply to different careers.
 
@@ -141,7 +127,7 @@ Some of the most common types of phishing attacks today include:
 
 1. **Spear phishing:** A malicious email attack that targets a speckific user or group of users. The email seems to originate from a **trusted source**.
 
-1. **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to **sensitive data**.
+1. **Whaling:** A form of spear phishing. Threat actors target company executives(like CEO, Founder, CO-Founder) to gain access to **sensitive data**.
 
 1. **Vishing:** The exploitation of electronic voice communication to obtain **sensitive information** or to impersonate a known source.
 
@@ -157,13 +143,13 @@ Some of the most common types of malware attacks today include: =
 
 1. **Worms:** A worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
 
-1. **Ransomware:** A malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
+1. **Ransomware:** A malicious attack where threat actors encrypt an organization's data and demand **payment** to restore access.
 
 1. **Spyware:** Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
 
 ### Social Engineering
 
-- **Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables.
+- **Social engineering** is a **manipulation technique** that exploits human error to gain private information, access, or valuables.
 
 Some of the most common types of social engineering attacks today include:
 
@@ -175,15 +161,15 @@ Some of the most common types of social engineering attacks today include:
 
 1. **Physical social engineering:** A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
 
-Social engineering principles
+### Social engineering principles
 
-Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority.Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
+Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
 
 Reasons why social engineering attacks are effective include:
 
 1. **Authority:** Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
 
-1. **Intimidation:** Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told.
+1. **Intimidation:** Threat actors use bullying tactics. This includes **persuading** and **intimidating** victims into doing what they’re told.
 
 1. **Consensus/Social proof:** Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
 
@@ -210,7 +196,7 @@ Reasons why social engineering attacks are effective include:
 
 ### Attack types
 
-- **Password Attack** is an attempt to access password-secured devices, systems, network, or data.
+- **Password Attack** is an attempt to access **password-secured** devices, systems, network, or data.
 
 1. Brute force
 1. Rainbow table
@@ -277,11 +263,11 @@ Motivation and intentions:-
 
 **hacker** is any person who uses computers to gain access to computer systems, networks, or data. They can be beginner or advanced technology professionals who use their skills for a variety of reasons. There are three main categories of hackers:
 
-1. **Authorized hackers** are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
+1. **Authorized hackers** are also called **ethical hackers**. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
 
 1. **Semi-authorized hackers** are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
 
-1. **Unauthorized hackers** are also called unethical hackers. They are malicious threat actors who do not follow or respect the law. Their **goal** is to collect and sell confidential data for **financial gain**.
+1. **Unauthorized hackers** are also called **unethical hackers**. They are malicious threat actors who do not follow or respect the law. Their **goal** is to collect and sell confidential data for **financial gain**.
 
 **Note**: There are multiple hacker types that fall into one or more of these three categories.
 
@@ -293,7 +279,7 @@ New and unskilled threat actors have various goals, including:
 
 - To exploit security weaknesses by using existing malware, programming scripts, and other tactics.
 
-There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from unethical hackers.
+There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from **unethical hackers**.
 
 ### How controls, frameworks, and compliance are related
 
