@@ -244,14 +244,16 @@ Reasons why social engineering attacks are effective include:
 
 ### Threat actor types
 
-1. **Advanced Persistent threats:** Have significant expertise an organixation's network without authorization. APTs tend to research their targets (like large corporations or government entitites).
+1. **Advanced Persistent threats:** Have significant expertise an organization's network without authorization. APTs tend to research their targets (like large corporations or government entitites).
 
 Motivation and intentions:-
 
 - Damaging critical infrastructure like power grid.
 - Gaining access to intellectual property, like trake screts or patents.
 
-1. **Insider Threat:** Insider threats abuse their authorized access to obtain data that may harm an organization. intention and motivations include:
+1. **Insider Threat:** Insider threats abuse their authorized access to obtain data that may harm an organization.
+
+intention and motivations include:
 
 - Sabotage, Corruption, Espionage, and Unauthorized access or leaks.
 
@@ -301,7 +303,7 @@ As you may recall, **security controls** are **safeguards** designed to reduce s
 
 **Specific controls, frameworks,** and **compliance**
 
-The **National Institute of Standards and Technology (NIST)** is a U.S.-based agency that develops multiple voluntary compliance frameworks that organizations worldwide can use to help manage risk. The more aligned an organization is with compliance, the lower the risk.
+The **National Institute of Standards and Technology (NIST)** is a U.S. based agency that develops multiple voluntary compliance frameworks that organizations worldwide can use to help manage risk. The more aligned an organization is with compliance, the lower the risk.
 
 Examples of frameworks include the **NIST Cybersecurity Framework (CSF)** and the **NIST Risk Management Framework (RMF)**.
 
