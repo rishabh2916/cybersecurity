@@ -1,6 +1,6 @@
 # WSL Guide
 
-Dowloading steps:-
+## Dowloading steps:-
 
 1. Open powershell on administration.
 1. First wsl is installed or not by type ```wsl status``` or ```wsl -l -v```.
@@ -11,6 +11,25 @@ Dowloading steps:-
 
 cmd
 
-1. **cd~** : going for home ubuntu director
-1. **pwd** : Print present working directory
-1. **cd /** : Going to root directory
+1. **cd ~ :** Going for home ubuntu director
+1. **pwd :** Print present working directory
+1. **cd / :** Going to root directory
+1. **clear :** Clear terminal
+
+### ls => content of directory [options] [files/directories]
+
+1. **ls :** Show content of directory
+1. **ls / :** Open contents of root directory
+1. **ls /home/program :** Content shown by path
+1. **ls [option] :** like **ls Downloads/** going in Download directory
+1. **ls ../.. :** going in root directory
+1. **ls -l:** Gives content in long formate
+1. **ls -a :** Shown hidden files
+1. **ls -al :** shown hidden and long formates of files
+1. **ls -lS :** S shown sort by largest size of file
+1. **ls Documents/*.html :** find all .html files inside Documents folder
+1. **ls Documents/* . * :** finding file with dot
+1. **ls [option] [files/directories]:**
+1. **ls -lS > out.txt :** ">" Put content of ls in out.txt
+1. **ls -d */ :** Show only all directory
+1. **man ls:** man is a manual of command
