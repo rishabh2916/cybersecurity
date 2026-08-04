@@ -75,3 +75,53 @@ The security operations domain focuses on the investigation of a potential data 
 1. Software development security
 
 The software development security domain is focused on using secure programming practices and guidelines to create secure applications. Having secure applications helps deliver secure and reliable services, which helps protect organizations and their users.
+
+## Navigate threats, risks, and vulnerabilities
+
+### Risk Management
+
+A primary goal of organizations is to protect assets. An asset is an item perceived as having value to an organization. Assets can be digital or physical. Examples of digital assets include the personal information of employees, clients, or vendors, such as:
+
+- Social Security Number (SSNs), or unique national identification number assingned to individuals
+- Dates of birth
+- Bank account number
+- Mailing addresses
+
+Examples of physical assets include:
+
+- Payment Kiosks
+- Servers
+- Desktop computers
+- Office spaces
+
+Some common strategies used to manage risks include:
+
+- **Acceptance:** Accepting a risk to avoid disrupting business continuity
+- **Avoidance:** Creating a lpan to avoid the risk altogether
+- **Transference:** Tranferring risks to a third party to manage
+- **Mitigation:** Lessening the impact of a known risk
+
+1. **Threats:** A threats is any circumstances and event that can negatively imapct assets. common types of threats include:
+
+- **Insider threats:** Staff menbers or vendors abuse their authorized access to obtain data that may harm an organization.
+- **Advanced persistent threats(APTs):** A threat actor maintains unauthorized access to a system for an extended period of time.
+
+1. **Risk:** A risk is anything taht can impact the confidentiality, integrity, or availability of an asset.
+
+There are different factors that can affect the likelihood of a risk to an organization’s assets, including:
+
+- **External risk:** Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information.
+- **Internal risk:** A current or former employee, vendors, or trusted partner who poses a security risk.
+- **Legacy system:** Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or odd mainframe systems.
+- **Multiparty risk:** Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software design, and inventions.
+- **Software compliance/licensing:** Software that is not updated or in compliance, or patches that are not installed in a timely manner.
+
+1. **Vulnerabilities:** A vulnerability is a weakness that can be exploited by a threat. some vulnerabilities include:
+
+- **ProxyLogon:** A pre-authenticated vulnerability that affects ths Microsoft Exchange server. This means a threat actor can complete a user authentication precess to deploy malicious code from a remote location.
+
+- **ZeroLogon:** A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
+
+- **Server-side request forgery:** Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
+
+- **Security logging and monitoring failures:** Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it.
