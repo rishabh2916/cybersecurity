@@ -15,6 +15,8 @@ cmd
 1. **pwd :** Print present working directory
 1. **cd / :** Going to root directory
 1. **clear :** Clear terminal
+1. **/ :** Forward slash
+1. **\ :** Backward slash
 
 ### ls => content of directory [options] [files/directories]
 
@@ -33,3 +35,20 @@ cmd
 1. **ls -lS > out.txt :** ">" Put content of ls in out.txt
 1. **ls -d */ :** Show only all directory
 1. **man ls:** man is a manual of command
+
+### cd Command cd [directorie ]
+
+1. **cd :** Moving from one directory to another
+1. **cd :** Go to Home directory
+1. **cd / :** Going to root directory
+1. **cd ~ :** Going to home
+1. **cd .. :** Going to above one directory
+1. **cd Downloads/text/hello.html :** Access files by absolute path
+1. **cd Download/ :** Access directories in current working directories
+
+**Notes** How to navigate on directories which make with space like ```My books```. their are three way we can approach below:
+
+1. **cd My\ books :** Use backward slash before second argument.
+1. **cd "My books" :** Write directories with start with double quot
+1. **cd 'My books' :** Write directories with start with single quot
+
