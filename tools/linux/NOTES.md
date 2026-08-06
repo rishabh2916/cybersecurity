@@ -52,3 +52,14 @@ cmd
 1. **cd "My books" :** Write directories with start with double quot
 1. **cd 'My books' :** Write directories with start with single quot
 
+### cat [option] [filename] Command
+
+1. **cat :** Take input and print output
+1. **cat text.txt :** Print data from ```text.txt``` file
+1. **cat file1.txt file2.txt :** cat cmd displaying content of file or multiple files
+1. **cat -b text.txt :** Line number to non-blank line
+1. **cat -n text.txt :** Line to all line include blank lines
+1. **cat -s text.txt :** squeezes blank lines to one blank line
+1. **cat -E text.txt :** I adds ``$`` dollar symbol at the end of each line
+
+Note: More about cat write ``man cat`` cmd.
