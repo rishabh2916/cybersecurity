@@ -147,3 +147,27 @@ There are different factors that can affect the likelihood of a risk to an organ
 - **Shared responsibility:** The idea that all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security.
 - **Social engineering:** A manipulation technique that exploits human error to gain private information, access, or valuables.
 - **Vulnerability:** A weakness that can be exploited by a threat.
+
+### The relationship between framework and controls
+
+- **Frameworks and controls** are guidelines used to building plans to help mitigate risk and threats to data and privacy. Frameworks support organizations' ability to adhere to compliance laws and regulations. For Example, the healthcare industry uses framework to comply with the US' Health Insurance Portability and Accountability Act (HIPAA), Which requires that medical professionals keep patient information safe.
+
+- **Security controls** are safeguards designed to reduce specific security risk. Security controls are the measures organizations use to low risk and threats to data and privacy. For example, a control that can be used alongside frameworks to ensure a hospital remains complaint with HIPAA is requiring that patients use multi-factor authentication(MFA) to access their medical records.
+
+### Specific frameworks and controls
+
+- **Cyber Threat Frameworks (CTF)** According to the office of the director of National Intelligence, the CTF was developed by the U.S. govt. to provide "a common language for describing and communicating information about cyber threat activity".
+
+- **International Organization for Standarization/International Electrotechnical Commission (ISO/IEC) 27001** An Internationally recognized and used framework is ISO/IEC 27001. The ISO 27000 family of standards enables organizations of all sectors and sizes to manage the security of assets, such as financial information, intellectual property, employee data, and information entrusted to third parties. Although the ISO/IEC 27001 framework does not require the use of specific controls, it does provide a collection that organization can use to improve their security posture.
+
+### Controls
+
+Controls are used alongside frameworks to reduce the possibility and impact of a security threat, risk, or vulnerability. controls can be physical, technical, and administrative and are typically used to prevent, detect, or, correct security issue.
+
+**Example of Physical Controls:** {Gate, fences, and locks}, {Security guards}, {Closed-circuit television (CCTV), surveillance, and motion detectors}, and {Access cards or badged to enter office spaces}.
+
+**Examples of technical controls:** Firewalls, MFA, and Antivirus software.
+
+**Examples of administrative controls:** Separation of duties, Authorization, Asset classification.
+
+**Note: People are the biggest threat to a company's security. This is why educating employee about security challenges is essential for minimizing the possibility of a breach**.
