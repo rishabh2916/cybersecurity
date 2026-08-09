@@ -171,3 +171,13 @@ Controls are used alongside frameworks to reduce the possibility and impact of a
 **Examples of administrative controls:** Separation of duties, Authorization, Asset classification.
 
 **Note: People are the biggest threat to a company's security. This is why educating employee about security challenges is essential for minimizing the possibility of a breach**.
+
+### The CIA triad for analyst
+
+The **CIA triad** is a model that helps informa how organizations consider risk when setting up system and security policies. It is made up of three elements that cybersecurity analysts and organizations work toward upholding: confidentiality, integrity, and availability.
+
+- **Confidentiality** is the idea that only authorized users can access specific assets or data. For example principle of leat privilege. The principle of least privilege limits access to only the information they need to complete work releted tasks.
+
+- **Integrity** is the idea that the data is verifiable correct, authentic, and reliable. Having protocols in place to verify the authenticity of data is essential. One way to verify data integrity is though cryptography, which is used to transfrom data so unauthorized parties cannot read or tamper with (NIST, 2022). Another Example is Encryption process.
+
+- **Availability** is the idea that data is sccessible to those who are authorized to use it. When a system adhere to both availability and confidentiality principles, data can be used when needed. For example, an employee works in the organization's accounting department, they might need access to corporate accounts but not data related to ongoing develpment projects.
