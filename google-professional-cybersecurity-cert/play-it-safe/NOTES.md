@@ -180,4 +180,32 @@ The **CIA triad** is a model that helps informa how organizations consider risk 
 
 - **Integrity** is the idea that the data is verifiable correct, authentic, and reliable. Having protocols in place to verify the authenticity of data is essential. One way to verify data integrity is though cryptography, which is used to transfrom data so unauthorized parties cannot read or tamper with (NIST, 2022). Another Example is Encryption process.
 
-- **Availability** is the idea that data is sccessible to those who are authorized to use it. When a system adhere to both availability and confidentiality principles, data can be used when needed. For example, an employee works in the organization's accounting department, they might need access to corporate accounts but not data related to ongoing develpment projects.
+- **Availability** is the idea that data is accessible to those who are authorized to use it. When a system adhere to both availability and confidentiality principles, data can be used when needed. For example, an employee works in the organization's accounting department, they might need access to corporate accounts but not data related to ongoing develpment projects.
+
+### NIST frameworks
+
+- **NIST Cybersecurity Framework (CSF)** A voluntary framework that consists of standards, guidelines, and best practice to manage cybersecurity risk.
+
+**Update:** The NIST Cybersecurity Framework is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. In the latest version, CSF v2.0, a new 'Govern' function has been added, emphasizing the importance of strong cybersecurity governance. This framework is widely respected and essential for maintaining security regardless of the organization you work for.
+
+The CSF now consists of **six** important core functions: **Govern, Identify, Protect, Detect, Respond, and Recover**, which we'll discuss in detail in a future video.
+
+CSF v2.0 also places greater emphasis on supply chain risk management.
+
+- **NIST S.P. 800-53** A unifies framework for protecting the security of information systems within the federal govt.
+
+Core Function of NIST Cybersecurity framework
+
+1. **Govern:** This function emphasizes the importance of strong cybersecurity governance across all levels of the organization. It's about establishing and maintaining the structures and processes needed to effectively manage cybersecurity risk. This includes things like setting clear cybersecurity objectives, ensuring leadership commitment, developing and implementing a comprehensive risk management strategy, and continuously improving cybersecurity performance.
+
+1. **Identify:** The management of cybersecurity risk and its effect on an organization's people and assets.
+
+1. **Protect:** The strategy used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats.
+
+1. **Detect:** Identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections.
+
+1. **Respond:** Making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process.
+
+1. **Recover:** The process of returning affected systems back to normal operation.
+
+![NIST core function](./images/CSF.png)
