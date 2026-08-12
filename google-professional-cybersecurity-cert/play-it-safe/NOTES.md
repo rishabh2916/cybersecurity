@@ -270,3 +270,27 @@ It’s necessary to create an audit checklist before conducting an audit. A chec
 1. **Create a mitigation plan :** A mitigation plan is a strategy established to lower the level of risk and potential costs, penalties, or other issues that can negatively affect the organization’s security posture.
 
 1. **Communications results to stakeholders :** The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to.
+
+## Introduction to cybersecurity tools
+
+### Security information and event management (SIEM) dashboards
+
+- **Log :** A record of events that occur within an organization's system and networks.
+
+Common log sources:
+
+1. A **Firewall** log is a record of attempted or established connections for incoming traffic from the internet. It also includes outbound requests to the internet from within the network.
+1. A **network log** is a record of all computers and devices that enter and leave the network. It also records connections between devices and services on the network.
+1. A **server log** is a record of events related to services, such as website, emails, or file shares. It includes actions such as login, password, and username requests.
+
+- **Security information and event management (SIEM) :** An application that collects and analyzes log data to monitor critical activities in an organization. SIEM tools offer real-time monitoring and tracking of security event logs. The data is then used to conduct a thorough analysis of any potential security threat, risk, or vulnerability identified. SIEM tools have many dashboard options. Each dashboard option helps cybersecurity team members manage and monitor organizational data. However, currently, SIEM tools require human interaction for analysis of security events.  
+
+- **Metrics :** Key technical attribute, such as response time, availability, and failure rate, which are used to assess the performance of a software application.
+
+- **Security orchestration, automation, and response (SOAR)** is a collection of applications, tools, and workflows that uses automation to respond to security events. Essentially, this means that handling common security-related incidents with the use of SIEM tools is expected to become a more streamlined process requiring less manual intervention. This frees up security analysts to handle more complex and uncommon incidents that, consequently, can’t be automated with a SOAR.
+
+### Explore security information and event management (SIEM) tools
+
+1. **Open-source tools** are often free to use and can be user friendly. The objective of open-source tools is to provide users with software that is built by the public in a collaborative way, which can result in the software being more secure. For example: Linux and Suricata.
+
+1. **Proprietary tools** are developed and owned by a person or company, and users typically pay a fee for usage and training. For Example: Splunk, Splunk Enterpises, and Google SecOps (Chronicle) SIEM tools.
