@@ -294,3 +294,15 @@ Common log sources:
 1. **Open-source tools** are often free to use and can be user friendly. The objective of open-source tools is to provide users with software that is built by the public in a collaborative way, which can result in the software being more secure. For example: Linux and Suricata.
 
 1. **Proprietary tools** are developed and owned by a person or company, and users typically pay a fee for usage and training. For Example: Splunk, Splunk Enterpises, and Google SecOps (Chronicle) SIEM tools.
+
+### Terms and definations
+
+1. **Chronicle:** A cloud-native tool designed to retain, analyze, and search data
+
+1. **Incident response:** An organization’s quick attempt to identify an attack, contain the damage, and correct the effects of a security breach
+
+1. **Playbook:** A manual that provides details about any operational action
+
+1. **Splunk Cloud:** A cloud-hosted tool used to collect, search, and monitor log data
+
+1. **Splunk Enterprise:** A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time
