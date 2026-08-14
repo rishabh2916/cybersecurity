@@ -306,3 +306,47 @@ Common log sources:
 1. **Splunk Cloud:** A cloud-hosted tool used to collect, search, and monitor log data
 
 1. **Splunk Enterprise:** A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time
+
+## Use playbooks to respond to incidents
+
+A **playbook** is a manual that provides details about any operational action. Essentially, a playbook provides a predefined and up-to-date list of steps to perform when responding to an incident.
+
+Playbooks are accompanied by a strategy. The strategy outlines expectations of team members who are assigned a task, and some playbooks also list the individuals responsible. The outlined expectations are accompanied by a plan. The plan dictates how the specific task outlined in the playbook must be completed.
+
+Updates are often made if:
+
+- A failure is identified, such as an oversight in the outlined policies and procedures, or in the playbook itself.
+- There is a change in industry standards, such as changes in laws or regulatory compliance.
+- The cybersecurity landscape changes due to evolving threat actor tactics and techniques.
+
+### Incident and vulnerability response playbooks
+
+They are developed based on the goals outlined in an organization’s business continuity plan. A business continuity plan is an established path forward allowing a business to recover and continue to operate as normal, despite a disruption like a security breach.
+
+When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable.
+
+Common steps included in incident and vulnerability playbooks include:
+
+1. **Preparation :** Preparation Phase is the first and most critical stage of the Incident Response lifecycle, focusing on how ready an organization is before a security incident occurs, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users
+
+1. **Detection and Analysis :** The Detection Phase is the stage where a security system, automated tool, or security analyst identifies an anomaly, suspicious activity, or an active security breach happening within the network.
+
+1. **Containment :** Containment is the crucial phase that takes place right after an incident has been detected and analyzed. Its primary goal is to stop the spread of the attack and prevent further damage to the organization's systems, data, and network. Prevent further damage and reduce immediate impact of incidents.
+
+1. **Eradication :** After an attack has been contained, the eradication phase focuses on completely removing the root cause of the incident from the environment.
+
+1. **Recovery :** Once the threat is entirely eradicated, the recovery phase brings systems, servers, and services back online into a normal, secure operational state.
+
+1. **Post-incident acitivity :** Document the incident, inform organizational leadership, and apply lessons learned.
+
+Additional steps include performing post-incident activities, and a coordination of efforts throughout the investigation and incident and vulnerability response stages.
+
+- **Note:** It is essential to refine processes and procedures outlined in a playbook. With every documented incident, cybersecurity teams need to consider what was learned from the incident and what improvements should be made to handle incidents more effectively in the future. Playbooks create structure and ensure compliance with the law.
+
+### Resources for more information
+
+- [UK, National Cyber Security Center (NCSC) - Incident Management](https://www.ncsc.gov.uk/section/about-ncsc/incident-management)
+- [Australia Govt. - Cyber Incident Response Plan](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
+- [Japan Computer Emergency Team Coordination Center (JPCERT/CC) - Vulnerabilities Handling and related guidelines](https://www.jpcert.or.jp/english/vh/guidelines.html)
+- [Government of Canada - Ramsomware Playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+- [Scottish Government - Playbook Templated](https://www.gov.scot/publications/cyber-resilience-incident-management/)
