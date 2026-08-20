@@ -10,7 +10,7 @@ HTTP(HyperText Transfer Protocol) is the protocol that specific how a web browse
 
 A URL is predominantly an instruction on how to access a resource on the internet.
 
-![How URL Look like]()
+![How URL Look like](./assets/domain%20structure.png)
 
 - **Scheme:** This instructs on what protocol to use for accessing the resource such as HTTP, HTTPS, FTP (File Transfer Protocol).
 
