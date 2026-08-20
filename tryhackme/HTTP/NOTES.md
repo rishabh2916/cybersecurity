@@ -81,3 +81,35 @@ Line 5: HTTP requests always end with a blank line to inform the web server that
 | **500–599** | **Server Errors** | This is reserved for errors happening on the server-side and usually indicate quite a major problem with the server handling the request. |
 | * 500 | Internal Service Error | The server has encountered some kind of error with your request that it doesn't know how to handle properly. |
 | * 503 | Service Unavailable | This server cannot handle your request as it's either overloaded or down for maintenance. |
+
+### Common Request Headers
+
+These are headers that are sent from the client (usually your browser) to the server.
+
+**Host:** Some web servers host multiple websites so by providing the host headers you can tell it which one you require, otherwise you'll just receive the default website for the server.
+
+**User-Agent:** This is your browser software and version number, telling the web server your browser software helps it format the website properly for your browser and also some elements of HTML, JavaScript and CSS are only available in certain browsers.
+
+**Content-Length:** When sending data to a web server such as in a form, the content length tells the web server how much data to expect in the web request. This way the server can ensure it isn't missing any data.
+
+**Accept-Encoding:** Tells the web server what types of compression methods the browser supports so the data can be made smaller for transmitting over the internet.
+
+**Cookie:** Data sent to the server to help remember your information (see cookies task for more information).
+
+### Common Response Headers
+
+These are the headers that are returned to the client from the server after a request.
+
+**Set-Cookie:** Information to store which gets sent back to the web server on each request (see cookies task for more information).
+
+**Cache-Control:** How long to store the content of the response in the browser's cache before it requests it again.
+
+**Content-Type:** This tells the client what type of data is being returned, i.e., HTML, CSS, JavaScript, Images, PDF, Video, etc. Using the content-type header the browser then knows how to process the data.
+
+**Content-Encoding:** What method has been used to compress the data to make it smaller when sending it over the internet.
+
+### Cookies
+
+You've probably heard of cookies before, they're just a small piece of data that is stored on your computer. Cookies are saved when you receive a "Set-Cookie" header from a web server. Then every further request you make, you'll send the cookie data back to the web server. Because HTTP is stateless (doesn't keep track of your previous requests), cookies can be used to remind the web server who you are, some personal settings for the website or whether you've been to the website before. Let's take a look at this as an example HTTP request:
+
+![Cookies working](./assets/cookies%20store%20process.png)
