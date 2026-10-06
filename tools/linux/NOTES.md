@@ -63,3 +63,9 @@ cmd
 1. **cat -E text.txt :** I adds ``$`` dollar symbol at the end of each line
 
 Note: More about cat write ``man cat`` cmd.
+
+1. **touch:** for creat file
+1. **mkdir:** full name is make directory and purpose to create a folder
+1. **cp:** Full name is copy and purpose is copy a file or folder
+1. **mv:** Move a file or folder
+1. **rm:** Remove a file or folder
