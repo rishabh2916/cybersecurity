@@ -1,5 +1,9 @@
 # WSL Guide
 
+Linux is a command line operating system based on unix. There are multiple operating systems that are based on linux.
+
+Secure Shell (SSH) refers to a cryptographic network protocol used in secure communication between devices. SSH encyrpts data using cryptographic algorithm, such as advanced encryption system (AES) and is often used when logging in remotely to a computer or server.
+
 ## Dowloading steps:-
 
 1. Open powershell on administration.
@@ -69,3 +73,10 @@ Note: More about cat write ``man cat`` cmd.
 1. **cp:** Full name is copy and purpose is copy a file or folder
 1. **mv:** Move a file or folder
 1. **rm:** Remove a file or folder
+
+### Introducing terminal text editors
+
+1. **nano filename:** To create or edit a file using nano under terminal. we simple use "nano filename" --replacing "filename" with the name of the file you wish to edit.
+1. **wget downloading_filename:** Tis command allows us to downlaod files from web via HTTP-- as if you were accessing the file in your browser.
+1. **scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt:**, **scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt** Copy files & directories from your current system to a remote system, Copy files & directories from a remote system to your current system.
+1. **Serving Files from your Host-WEB:** Python3's "HTTPServer" will serve the files in the directory where you run the command, but this can be changed by providing options that can be found within the manual pages. Simply, all we need to do is run ``python3 -m  http.server``.
