@@ -77,6 +77,6 @@ Note: More about cat write ``man cat`` cmd.
 ### Introducing terminal text editors
 
 1. **nano filename:** To create or edit a file using nano under terminal. we simple use "nano filename" --replacing "filename" with the name of the file you wish to edit.
-1. **wget downloading_filename:** Tis command allows us to downlaod files from web via HTTP-- as if you were accessing the file in your browser.
-1. **scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt:**, **scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt** Copy files & directories from your current system to a remote system, Copy files & directories from a remote system to your current system.
+1. **wget downloading_filename:** Tis command allows us to download files from web via HTTP-- as if you were accessing the file in your browser.
+1. **scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt:**, **scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt** Copy files & directories from your current system to a remote system, Copy files & directories from a remote system to your current system (remembering that the format of SCP is just SOURCE and DESTINATION).
 1. **Serving Files from your Host-WEB:** Python3's "HTTPServer" will serve the files in the directory where you run the command, but this can be changed by providing options that can be found within the manual pages. Simply, all we need to do is run ``python3 -m  http.server``.
