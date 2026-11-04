@@ -91,3 +91,20 @@ Note: More about cat write `man cat` cmd.
 Crontabs can be edited by using `crontab -e`, where you can select an editor (such as Nano) to edit your crontab.
 ![cron2-diagram](./images/cron2.png)
 ![cron3-diagram](./images/cron3.png)
+
+## Maintaining Yours System: Logs
+
+Located in the /var/log directory, these files and folders contain logging information for applications and services running on your system. The Operating System  (OS) has become pretty good at automatically managing these logs in a process that is known as "rotating".
+
+I have highlighted some logs from three services running on a Ubuntu machine:
+
+1. An Apache2 web server
+1. Logs for the fail2ban service, which is used to monitor attempted brute forces, for example
+1. The UFW service which is used as a firewall
+![log1](./images/log1.png)
+
+These services and logs are a great way in monitoring the health of your system and protecting it. Not only that, but the logs for services such as a web server contain information about every single request - allowing developers or administrators to diagnose performance issues or investigate an intruder's activity. For example, the two types of log files below that are of interest:
+
+- access log
+- error log
+![log2](./images/log2.png)
