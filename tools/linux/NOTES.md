@@ -80,3 +80,14 @@ Note: More about cat write `man cat` cmd.
 1. **wget downloading_filename:** Tis command allows us to downlaod files from web via HTTP-- as if you were accessing the file in your browser.
 1. **scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt:**, **scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt** Copy files & directories from your current system to a remote system, Copy files & directories from a remote system to your current system.
 1. **Serving Files from your Host-WEB:** Python3's "HTTPServer" will serve the files in the directory where you run the command, but this can be changed by providing options that can be found within the manual pages. Simply, all we need to do is run `python3 -m  http.server`.
+
+## Maintaining Your Systems: Automation
+
+**Cron:** We're going to be talking about the `cron` process, but more specifically, how we can interact with it via the use of `crontabs` . `Crontab` is one of the processes that is started during boot, which is responsible for facilitating and managing cron jobs.
+![cron1-diagram](./images/cron1.png)
+
+**Note:** This can be confusing to begin with, which is why there are some great resources such as the online "`Crontab Generator`" that allows you to use a friendly application to generate your formatting for you! As well as the site "`CronGuru` "!
+
+Crontabs can be edited by using `crontab -e`, where you can select an editor (such as Nano) to edit your crontab.
+![cron2-diagram](./images/cron2.png)
+![cron3-diagram](./images/cron3.png)
