@@ -32,3 +32,38 @@ A **wireless access point** sends and receives digital signals over radio waves 
 
 **Network diagram:** Network diagrams use small representative graphics to portray each network device and dotted lines to show how each device connects to the other.
 ![network-diagram](./images/network-diagram.png)
+
+## Network Communications
+
+Data: A basic unit of information that travels from one device to another within a network.
+Bandwidth: The amount of data a devices receives every second.
+Speed: The rate at which data packets are received or downloaded.
+Packet sniffing: The practice of capturing and inspecting data packets across a network.
+
+**TCP/IP model:** The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network.The TCP/IP model has four layers: the network access layer, internet layer, transport layer, and application layer.
+![TCP1](./images/tcp1.png)
+
+1. **Network access layer:** The network access layer, sometimes called the data link layer, deals with the creation of data packets and their transmission across a network. This layer corresponds to the physical hardware involved in network transmission. Hubs, modems, cables, and wiring are all considered part of this layer.
+
+1. **Internet layer:** The internet layer, sometimes referred to as the network layer, is responsible for ensuring the delivery to the destination host, which potentially resides on a different network. It ensures IP addresses are attached to data packets to indicate the location of the sender and receiver. The internet layer also determines which protocol is responsible for delivering the data packets and ensures the delivery to the destination host. Here are some of the common protocols that operate at the internet layer:
+
+- **Internet Protocol (IP).** IP sends the data packets to the correct destination and relies on the Transmission Control Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. IP packets allow communication between two networks. They are routed from the sending network to the receiving network. TCP in particular retransmits any data that is lost or corrupt.
+
+- **Internet Control Message Protocol (ICMP).** The ICMP shares error information and status updates of data packets. This is useful for detecting and troubleshooting network errors. The ICMP reports information about packets that were dropped or that disappeared in transit, issues with network connectivity, and packets redirected to other routers.
+
+1. **Transport layer** The transport layer is responsible for delivering data between two systems or networks and includes protocols to control the flow of traffic across a network. TCP and UDP are the two transport protocols that occur at this layer.
+
+- **Transmission Control Protocol:** The Transmission Control Protocol (TCP) is an internet communication protocol that allows two devices to form a connection and stream data. It ensures that data is reliably transmitted to the destination service. TCP contains the port number of the intended destination service, which resides in the TCP header of a TCP/IP packet.
+
+- **User Datagram Protocol** The User Datagram Protocol (UDP) is a connectionless protocol that does not establish a connection between devices before transmissions. It is used by applications that are not concerned with the reliability of the transmission. Data sent over UDP is not tracked as extensively as data sent using TCP. Because UDP does not establish network connections, it is used mostly for performance sensitive applications that operate in real time, such as video streaming.
+
+1. The **application layer** in the TCP/IP model is similar to the application, presentation, and session layers of the OSI model. The application layer is responsible for making network requests or responding to requests. This layer defines which internet services and applications any user can access. Protocols in the application layer determine how the data packets will interact with receiving devices. Some common protocols used on this layer are:
+
+- Hypertext transfer protocol (HTTP)
+- Simple mail transfer protocol (SMTP)
+- Secure shell (SSH)
+- File transfer protocol (FTP)
+- Domain name system (DNS)
+
+Application layer protocols rely on underlying layers to transfer the data across the network.
+![TCPVsOSI](./images/tcpVssoi.png)
